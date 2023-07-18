@@ -35,11 +35,14 @@ If you are still interested in running the application, please proceed with the 
 
 <a name="walkthroughVideo"></a>
 ## 3. Walkthrough video
+If the links didn't work you can find the original recordings in the SRC folder.
 * https://drive.google.com/file/d/1xLZ5VsgHB4gOZZM78K7iX_9zY3C6TmKE/view
 * https://drive.google.com/file/d/1urWA04lxdXOC0XL-BnsGb1Ri5FEvWq2N/view
+* https://drive.google.com/file/d/1sa1nP_hNoAFq0HjopXCLL9I3DLu9Oayz/view
+* https://drive.google.com/file/d/123b0MlmzSAvhCjNtClQu5LSdLOlxaYtS/view
 
 
-![step](./assets/images/insomnia_get_all_products_by_id_notfound.JPG?raw=true "insomnia_get_all_products_by_id_notfound.JPG")
+
 
 
 <a name="licenses"></a>
