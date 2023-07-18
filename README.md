@@ -18,13 +18,7 @@ This application functions as a backend system that serves frontend routes. It e
 <a name="usage"></a>
 ## 3. Usage Tips
 
-To run the application locally, follow the steps below:
-
-1. Make sure you have MySQL installed on your local machine, as this application relies on it as a database server.
-2. Modify the ".env" file located in the application's directory. Replace the default "user" and "password" values with your own MySQL credentials.
-3. Once the modifications are made, start the application by executing the appropriate command.
-
-If you are still interested in running the application, please proceed with the following steps.
+For running the application, please proceed with the following steps.
 * run mysql terminal at project source location
   source db/schema.sql
 * npm i
