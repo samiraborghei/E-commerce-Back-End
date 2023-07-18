@@ -36,6 +36,7 @@ If you are still interested in running the application, please proceed with the 
 <a name="walkthroughVideo"></a>
 ## 3. Walkthrough video
 * https://drive.google.com/file/d/1xLZ5VsgHB4gOZZM78K7iX_9zY3C6TmKE/view
+* https://drive.google.com/file/d/1urWA04lxdXOC0XL-BnsGb1Ri5FEvWq2N/view
 
 
 ![step](./assets/images/insomnia_get_all_products_by_id_notfound.JPG?raw=true "insomnia_get_all_products_by_id_notfound.JPG")
